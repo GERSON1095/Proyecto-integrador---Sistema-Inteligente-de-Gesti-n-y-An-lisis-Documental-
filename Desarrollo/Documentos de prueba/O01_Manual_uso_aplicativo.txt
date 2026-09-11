@@ -1,0 +1,24 @@
+MANUAL BREVE DE USO - SISTEMA DE INVENTARIOS INTERNO
+====================================================
+
+Este documento describe los pasos básicos para registrar la entrada de mercancía en el
+sistema de inventarios de Distribuidora El Roble Ltda.
+
+
+
+Pasos a seguir:
+
+1. Ingresar al sistema con usuario y contraseña asignados por el administrador.
+
+2. Seleccionar la opción 'Entradas de mercancía' en el menú principal.
+
+3. Digitar el número de la orden de compra asociada.
+
+4. Verificar cantidades físicas contra lo indicado en la factura del proveedor.
+
+5. Confirmar el registro y generar el comprobante de entrada.
+
+
+
+Nota: cualquier diferencia entre lo físico y lo facturado debe reportarse de inmediato al
+coordinador de bodega.

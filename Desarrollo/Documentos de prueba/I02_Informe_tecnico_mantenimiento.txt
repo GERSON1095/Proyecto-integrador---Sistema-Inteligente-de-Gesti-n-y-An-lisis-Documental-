@@ -1,0 +1,23 @@
+INFORME TÉCNICO DE MANTENIMIENTO DE EQUIPOS
+===========================================
+
+Responsable: Luis Alberto Jiménez Prada, Técnico de Mantenimiento.
+
+Fecha de la visita: 11 de agosto de 2025.
+
+
+
+Equipos revisados y estado encontrado:
+
+- Compresor industrial línea 1: funcionamiento normal.
+
+- Compresor industrial línea 2: fuga menor de aceite, se requiere repuesto.
+
+- Tablero eléctrico principal: sin novedad.
+
+- Sistema de ventilación: filtros saturados, se realizó cambio inmediato.
+
+
+
+Recomendación: programar mantenimiento correctivo para el compresor de la línea 2 antes
+del 30 de agosto de 2025, dado el riesgo de parada de planta.

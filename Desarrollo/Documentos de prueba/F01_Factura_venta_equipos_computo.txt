@@ -1,0 +1,25 @@
+FACTURA DE VENTA NO. FV-2025-00187
+==================================
+
+Emisor: Tecnosoluciones Andina S.A.S. - NIT 900.234.115-6
+Cliente: Colegio San Rafael de Aguas Claras - NIT 890.412.877-2
+Fecha de emisión: 14 de marzo de 2025
+Forma de pago: Crédito a 30 días
+
+
+
+Detalle de los bienes vendidos:
+
+Cant. | Descripción                         | Vr. Unitario | Vr. Total  
+------+-------------------------------------+--------------+------------
+10    | Computador portátil Core i5 8GB RAM | $2.150.000   | $21.500.000
+5     | Video beam 3500 lúmenes             | $980.000     | $4.900.000 
+2     | Impresora multifuncional láser      | $1.250.000   | $2.500.000 
+
+
+
+Subtotal: $28.900.000
+IVA (19%): $5.491.000
+Total a pagar: $34.391.000
+
+Observaciones: la garantía de los equipos es de 12 meses y cubre defectos de fabricación.

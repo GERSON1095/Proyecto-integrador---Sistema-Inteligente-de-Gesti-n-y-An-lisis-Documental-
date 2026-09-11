@@ -1,0 +1,28 @@
+FACTURA DE SERVICIOS NO. 4451
+=============================
+
+Servicios Integrales del Norte S.A.S. - NIT 901.556.230-1
+
+Cliente: Constructora Nueva Era S.A. - NIT 800.115.902-4
+
+Fecha: 02/07/2025      Vencimiento: 02/08/2025
+
+
+
+CONCEPTO                                CANTIDAD   VALOR
+
+------------------------------------------------------
+
+Mantenimiento preventivo aires acond.       6      $1.800.000
+
+Cambio de filtros industriales              12      $960.000
+
+Visita técnica de emergencia                 2      $420.000
+
+------------------------------------------------------
+
+TOTAL FACTURADO: $3.180.000
+
+
+
+Método de pago: transferencia bancaria a cuenta corriente 041-556678-02.
